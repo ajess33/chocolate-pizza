@@ -38,9 +38,62 @@ header ul li {
   margin-left: 10px;
 }
 
+main hr,
 header hr {
   clear: both;
   height: 10px;
   border: none;
   border-bottom: 8px dashed #999;
+}
+
+section user-wrapper {
+  float: left;
+}
+
+section .user-info {
+  display: inline-block;
+  width: 500px;
+  margin-left: 15px;
+  color: #aaa;
+}
+
+section .user-info h4 {
+  margin: 5px 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+section .user-info p {
+  margin: 0;
+}
+
+.share {
+  background: #d74014;
+  color: #ddd;
+  font-size: 0.9rem;
+  padding: 8px 20px;
+  float: right;
+  margin: 40px 0 0 0;
+}
+
+.footer-seperator {
+  border: 1px solid #ddd;
+  height: 1px;
+  background: #ddd;
+  margin-top: 80px;
+}
+
+footer {
+  text-align: center;
+  position: relative;
+  bottom: 25px;
+  color: #aaa;
+}
+
+footer img {
+  margin-bottom: 15px;
+}
+
+footer p {
+  margin: 5px;
 }
