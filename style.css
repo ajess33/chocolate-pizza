@@ -35,7 +35,8 @@ main h1 {
 
 .directions {
     text-indent: 5%;
-    font-size: 20px;
+    font-size: 22px;
+    color: rgb(119, 119, 119);
 }
 
 .main-image {
