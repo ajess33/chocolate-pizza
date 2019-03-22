@@ -1,0 +1,46 @@
+body {
+  margin: 20px 120px 60px 120px;
+}
+
+header .logo-section {
+  float: left;
+}
+
+.logo-name {
+  font-size: 1.5rem;
+  font-family: 'Lobster', cursive;
+  margin-top: 10px;
+}
+
+.logo-text {
+  display: inline-block;
+}
+
+.logo-small {
+  font-size: 0.8rem;
+}
+
+header .logo-section p {
+  margin: 0;
+  display: block;
+}
+
+header ul {
+  float: right;
+  margin-bottom: 20px;
+}
+
+header ul li {
+  display: inline-block;
+}
+
+.rss-icon {
+  margin-left: 10px;
+}
+
+header hr {
+  clear: both;
+  height: 10px;
+  border: none;
+  border-bottom: 8px dashed #999;
+}
