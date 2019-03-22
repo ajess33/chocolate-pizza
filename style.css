@@ -1,0 +1,25 @@
+.notepad-list-all {
+  background-image: url('img/list-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  box-sizing: border-box;
+  width: auto;
+  height: 350px;
+  line-height: 40px;
+}
+.notepad-list-one {
+  float: left;
+  margin-left: 230px;
+  font-size: 23px;
+  margin-top: 40px;
+  list-style-type: none;
+}
+.notepad-list-two {
+  float: left;
+  margin-left: 120px;
+  font-size: 23px;
+  margin-top: 40px;
+  list-style-type: none;
+}
+
+
