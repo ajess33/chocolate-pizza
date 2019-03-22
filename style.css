@@ -1,0 +1,45 @@
+body {
+    margin: 20px 120px 60px 120px;
+}
+main h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size:48px;
+}
+
+.float-left {
+    float: left;
+}
+.main-date {
+    padding: 0;
+    margin-top: -35px;
+    color: grey;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    margin-bottom: 55px;
+}
+
+.float-right {
+    float: right;
+    margin-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    color: grey;
+    font-size: 16px;
+}
+
+.print {
+    display: inline-block;
+    margin-top: 45px;
+}
+
+.directions {
+    text-indent: 5%;
+    font-size: 20px;
+}
+
+.main-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
